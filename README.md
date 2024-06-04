@@ -1,0 +1,1 @@
+This project looks at sample crowdfunding data and uses conditional formatting in Excel to color whether a campaign is successful or not. It creates several pivot charts summarizing campaign success by category and subcategory. There are also line charts summarizing success by size of goal. A write-up analyzing findings is included also.
